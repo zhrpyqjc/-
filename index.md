@@ -1,4 +1,3 @@
-##周浩然的朋友圈教程网
 <html lang="en">
 <body>
 <h1>周浩然的朋友圈教程网</h1>
@@ -22,4 +21,3 @@
 <p>18.如何用Premiere Pro给视频替换音乐</p>
 <p>19.如何用Premiere Pro快进视频，变声</p>
 <p>20.如何用Premiere Pro将字幕由小到大</p>
-</html>
