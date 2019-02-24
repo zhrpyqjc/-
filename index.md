@@ -2,8 +2,7 @@
 <html lang="en">
 <body>
 <p>1.如何做一个告白视频</p>
-<video src="如何做一个告白视频.mp4" width="800" height="600"controls>
-</video>
+<video src="如何做一个告白视频.mp4" controls/>
 <p>2.如何用PPT做一个二维码</p>
 <p>3.如何用视频做PPT背景</p>
 <p>4.如何在Word保持字体不变</p>
