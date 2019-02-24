@@ -5,6 +5,8 @@
 <video 如何做一个告白视频 controls="controls">
 </video>
 <p>2.如何用PPT做一个二维码</p>
+<video 如何用PPT做一个二维码 controls="controls">
+</video>
 <p>3.如何用视频做PPT背景</p>
 <p>4.如何在Word保持字体不变</p>
 <p>5.如何用PPT做倒计时</p>
