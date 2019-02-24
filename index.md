@@ -5,14 +5,8 @@
 <video src="如何做一个告白视频.mp4 width="320" height="240" controls="controls">
 </video>
 <p>2.如何用PPT做一个二维码</p>
-<video src="如何用PPT做一个二维码.mp4 width="320" height="240" controls="controls">
-</video>
 <p>3.如何用视频做PPT背景</p>
-<video src="如何用视频做PPT背景.mp4 width="320" height="240" controls="controls">
-</video>
 <p>4.如何在Word保持字体不变</p>
-<video src="如何在Word保持字体不变.mp4 width="320" height="240" controls="controls">
-</video>
 <p>5.如何用PPT做倒计时</p>
 <p>6.如何在放映PPT时输入文字</p>
 <p>7.PS做奥运五环</p>
